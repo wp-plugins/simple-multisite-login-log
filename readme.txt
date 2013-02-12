@@ -9,7 +9,7 @@ Track user logins across a Multisite, Network, or Single site install
 
 == Description ==
 
-Provides the ability to track users across a WordPress Multisite, Network, or Single site install.
+Provides the ability to track user logins across a WordPress Multisite, Network, or Single site install.
 
 * Single site admins will only see logins specific to their site
 * Network administrators will see logins across the entire network. ( Note that here the network admin is for a network inside a multisite, such as with wp-multi-network )
