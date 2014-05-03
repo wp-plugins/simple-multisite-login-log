@@ -2,7 +2,7 @@
 
 /*
   Plugin Name: Simple Network Login Log
-  Version: 0.6
+  Version: 0.6.1
   Description: Track user logins across your Multisite network. Site owners see logins for their site. Network admins see all logins in their dashboard. Compatible with wp-multi-network
   Author: Jordan Beaver
   Author URI: http://jordan.beaveris.me
