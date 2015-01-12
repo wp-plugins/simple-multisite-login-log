@@ -2,7 +2,7 @@
 Contributors: gehidore, blobaugh
 Tags: user log, login, log, multisite, network, multi-network, users
 Requires at least: 3.4
-Tested up to: 3.9
+Tested up to: 4.1
 Stable tag: trunk
 
 Track user logins across a Multisite, Network, or Single site install
@@ -28,6 +28,10 @@ e.g.
 3. Use it
 
 == Changelog ==
+
+= 0.6.2 =
+* Updated text on top of login log page in dashboard
+* Compatible with 4.1
 
 = 0.6 =
 
